@@ -1,5 +1,10 @@
 # Location Search Application
 
+
+
+<img src="./assets/location-search-demo.png" alt="Location Search App" width="600" height="400">
+
+
 This is a **React** application designed to search and display locations based on user input. The app integrates **Tailwind CSS** for styling and utilizes an API to fetch location data. It features a search bar, a list of places, and the ability to select a place for further interaction.
 
 ## Features
@@ -17,6 +22,7 @@ This is a **React** application designed to search and display locations based o
 - **Vite**: Next-generation build tool for faster development and builds.
 - **PostCSS**: Tool to process CSS with Tailwind and Autoprefixer.
 - **API Integration**: The app utilizes the **Nominatim API** from OpenStreetMap to fetch location data.
+- **React Leaflets**: To draw a map in React app, *Leaflet* package was used, Another Equivalent can be Google Maps
 
 ## Installation
 
