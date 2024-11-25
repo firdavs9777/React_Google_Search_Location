@@ -6,6 +6,8 @@ import autoprefixer from 'autoprefixer';  // Import autoprefixer using import
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/React_Google_Search_Location',
+  
   css: {
     postcss: {
       plugins: [tailwindcss, autoprefixer],  // Use the imported modules here
