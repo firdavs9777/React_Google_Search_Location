@@ -11,4 +11,8 @@ export default defineConfig({
       plugins: [tailwindcss, autoprefixer],  // Use the imported modules here
     },
   },
+  build: {
+    outDir: 'build', // Change output directory to 'build'
+  },
+
 });
