@@ -2,7 +2,7 @@
 
 
 
-<img src="./src/assets/example.png" alt="Location Search App" width="600" height="400">
+<img src="./src/assets/example.png" alt="Location Search App"  height="400">
 
 
 This is a **React** application designed to search and display locations based on user input. The app integrates **Tailwind CSS** for styling and utilizes an API to fetch location data. It features a search bar, a list of places, and the ability to select a place for further interaction.
